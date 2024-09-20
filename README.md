@@ -20,4 +20,13 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ren-joey&show_icons=true&layout=compact&locale=en&hide=html,CSS,scss,Pug,Twig&theme=dark)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 19 September 2024 - To: 19 September 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
