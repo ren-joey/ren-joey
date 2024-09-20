@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ren-joey&theme=darkhub)](https://github.com/ren-joey)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ren-joey&theme=highcontrast)](https://github.com/ren-joey)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ren-joey&show_icons=true&layout=compact&locale=en&hide=html,CSS,scss,Pug,Twig&theme=dark)
