@@ -22,14 +22,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 September 2024 - To: 20 September 2024
+From: 19 September 2024 - To: 21 September 2024
 
-Total Time: 25 mins
+Total Time: 2 hrs 11 mins
 
-TypeScript   16 mins         ████████████████░░░░░░░░░   64.56 %
-YAML         8 mins          ████████▒░░░░░░░░░░░░░░░░   33.32 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TypeScript   1 hr 34 mins    ██████████████████░░░░░░░   71.71 %
+YAML         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
