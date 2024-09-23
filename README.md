@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 September 2024 - To: 21 September 2024
+From: 19 September 2024 - To: 22 September 2024
 
-Total Time: 2 hrs 11 mins
+Total Time: 2 hrs 51 mins
 
-TypeScript   1 hr 34 mins    ██████████████████░░░░░░░   71.71 %
-YAML         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript                 1 hr 36 mins    ██████████████░░░░░░░░░░░   56.20 %
+YAML                       39 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+JSON                       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+JavaScript                 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Bash                       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Docker                     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Git Config                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other                      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
