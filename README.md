@@ -22,4 +22,21 @@ Here are some ideas to get you started:
 [![Waka_time](https://github-readme-stats.vercel.app/api/wakatime?username=joeyren&theme=dark)](https://github.com/ren-joey)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 19 September 2024 - To: 24 September 2024
+
+Total Time: 3 hrs 11 mins
+
+TypeScript                 1 hr 36 mins    ████████████▓░░░░░░░░░░░░   50.32 %
+YAML                       39 mins         █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+Markdown                   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+JSON                       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+JavaScript                 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Bash                       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Docker                     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Git Config                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other                      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+```
+
 <!--END_SECTION:waka-->
