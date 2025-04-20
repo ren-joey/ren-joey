@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 September 2024 - To: 18 April 2025
+From: 19 September 2024 - To: 19 April 2025
 
-Total Time: 586 hrs 20 mins
+Total Time: 588 hrs 18 mins
 
-Java                       286 hrs 40 mins ████████████░░░░░░░░░░░░░   48.23 %
-JavaScript                 130 hrs 1 min   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-TypeScript                 58 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-XML                        23 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-SQL                        19 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other                      7 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Java                       288 hrs 17 mins ████████████░░░░░░░░░░░░░   48.35 %
+JavaScript                 130 hrs 1 min   █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+TypeScript                 58 hrs 19 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+XML                        23 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+SQL                        19 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Other                      7 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
