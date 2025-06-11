@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 September 2024 - To: 08 June 2025
+From: 19 September 2024 - To: 10 June 2025
 
-Total Time: 760 hrs 20 mins
+Total Time: 767 hrs 47 mins
 
-Java                       411 hrs 18 mins █████████████▒░░░░░░░░░░░   53.48 %
-JavaScript                 143 hrs 22 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
-TypeScript                 58 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-XML                        34 hrs 23 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-SQL                        30 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Python                     11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other                      8 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Java                       417 hrs 39 mins █████████████▒░░░░░░░░░░░   53.78 %
+JavaScript                 143 hrs 22 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+TypeScript                 58 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+XML                        34 hrs 49 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+SQL                        31 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Python                     11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other                      8 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
