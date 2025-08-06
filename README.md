@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ren-joey&show_icons=true&layout=compact&locale=en&hide=html,CSS,scss,Pug,Twig&theme=dark)
 
-[![Waka_time](https://github-readme-stats.vercel.app/api/wakatime?username=joeyren&theme=dark)](https://github.com/ren-joey)
+<!--[![Waka_time](https://github-readme-stats.vercel.app/api/wakatime?username=joeyren&theme=dark)](https://github.com/ren-joey)-->
 
 <!--START_SECTION:waka-->
 
