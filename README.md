@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://trophygh.kolioaris.xyz/?username=ren-joey&theme=darkhub&column=5)](https://github.com/ren-joey)
+[![trophy](https://trophygh.kolioaris.xyz/?username=ren-joey&theme=darkhub&column=5&row=1)](https://github.com/ren-joey)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=ren-joey&theme=dark)](https://github.com/ren-joey) -->
 
