@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ren-joey&theme=darkhub&column=5)](https://github.com/ren-joey)
+[![trophy](https://trophygh.kolioaris.xyz/?username=ren-joey&theme=darkhub&column=5)](https://github.com/ren-joey)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ren-joey&theme=dark)](https://github.com/ren-joey)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=ren-joey&theme=dark)](https://github.com/ren-joey) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ren-joey&show_icons=true&layout=compact&locale=en&hide=html,CSS,scss,Pug,Twig&theme=dark)
 
